@@ -9,7 +9,7 @@ public class ArithmeticOperation {
         int division = a / b;
 
         System.out.println("Arithmetic Operations:");
-        System.out.println("Sum: " + sum);
+        System.out.println("Sum: " + summmation);
         System.out.println("Difference: " + difference);
         System.out.println("Product: " + product);
         System.out.println("Division: " + division);
